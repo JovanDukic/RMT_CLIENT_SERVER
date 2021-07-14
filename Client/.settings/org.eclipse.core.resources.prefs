@@ -1,0 +1,9 @@
+eclipse.preferences.version=1
+encoding//src/config/Config.java=UTF-8
+encoding//src/enums/ProgressStatus.java=UTF-8
+encoding//src/layout/LoginPanel.java=UTF-8
+encoding//src/layout/RegistrationPanel.java=UTF-8
+encoding//src/layout/admin/AdminTable.java=UTF-8
+encoding//src/layout/user/MainPanel.java=UTF-8
+encoding//src/layout/user/TabbedPanel.java=UTF-8
+encoding//src/layout/user/TestChooserPane.java=UTF-8
