@@ -14,5 +14,33 @@ The same username and password needs to be inside Config class (eighth and ninet
   
 <Setting up Client project>
 Since program is made using JavaFX software platform it requires JavaFX SDK.<br /><br />
-(the process of adjusting the project in order to run a program can be found here: https://www.jetbrains.com/help/idea/javafx.html)
+(the process of adjusting the project in order to run a program can be found here: https://www.jetbrains.com/help/idea/javafx.html)<br /><br />
+
+**Client App screenshots**
+  
+**1) Login screen:**
+  
+ ![Image_1](https://github.com/JovanDukic/RMT_CLIENT_SERVER/blob/master/Images/Screenshot%20(406).png)
+  
+**2) Register screen:**
+  
+ ![Image_2](https://github.com/JovanDukic/RMT_CLIENT_SERVER/blob/master/Images/Screenshot%20(407).png)
+  
+**3) App overview:**
+  
+ ![Image_3](https://github.com/JovanDukic/RMT_CLIENT_SERVER/blob/master/Images/Screenshot%20(410).png)
+  
+**4) Test results:**
+  
+ ![Image_4](https://github.com/JovanDukic/RMT_CLIENT_SERVER/blob/master/Images/Screenshot%20(411).png)
+  
+**6) Waiting for PCR test result:**
+  
+ ![Image_6](https://github.com/JovanDukic/RMT_CLIENT_SERVER/blob/master/Images/Screenshot%20(412).png)
+  
+**7) Updated test results:**
+  
+ ![Image_7](https://github.com/JovanDukic/RMT_CLIENT_SERVER/blob/master/Images/Screenshot%20(414).png)
+  
+  
 
